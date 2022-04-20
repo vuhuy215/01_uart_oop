@@ -19,6 +19,7 @@ int main(void)
 	{
 		printf("vu quang huy\n");
 		printf("ahihih\n");
+
 		printf("tao branch huy1\n");
 		printf("fresher\n");
 		printf("moi them dong nay");
@@ -27,6 +28,7 @@ int main(void)
 		printf("thêm code cho branch huy3\n");
 
 		printf("tạo branch huy4\n");
+
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
