@@ -25,6 +25,8 @@ int main(void)
 		printf("tạo branch huy3\n");
 		printf("thêm code cho branch huy3\n");
 
+		prinf("ahihi");
+
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
 		rcc_ms_delay(1000);
