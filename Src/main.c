@@ -22,12 +22,11 @@ int main(void)
 		printf("tao branch huy1\n");
 		printf("fresher\n");
 		printf("moi them dong nay");
-<<<<<<< huy3
+
 		printf("tạo branch huy3\n");
 		printf("thêm code cho branch huy3\n");
-=======
+
 		printf("tạo branch huy4\n");
->>>>>>> tạo branch huy4
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
