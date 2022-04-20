@@ -23,6 +23,7 @@ int main(void)
 		printf("fresher\n");
 		printf("moi them dong nay");
 		printf("tạo branch huy3\n");
+		printf("thêm code cho branch huy3\n");
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
