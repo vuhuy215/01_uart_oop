@@ -30,6 +30,8 @@ int main(void)
 		printf("tạo branch huy4\n");
 		printf("giờ chuyển sang hàm main/n");
 
+		printf("nâng cấp main\n");
+
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
