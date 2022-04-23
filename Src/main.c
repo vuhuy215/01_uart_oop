@@ -32,6 +32,8 @@ int main(void)
 
 		printf("nâng cấp main\n");
 
+		printf("chuyển sang huyvu\n");
+
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
