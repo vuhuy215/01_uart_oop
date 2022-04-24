@@ -33,6 +33,7 @@ int main(void)
 		printf("nâng cấp main\n");
 
 		printf("chuyển sang huyvu\n");
+		printf("ahihih");
 
 		printf("sửa đổi bằng vuhuy");
 
